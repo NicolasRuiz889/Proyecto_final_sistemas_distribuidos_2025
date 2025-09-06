@@ -1,0 +1,1 @@
+Este espacio suministra el resumen de buenas practicas de diseño
